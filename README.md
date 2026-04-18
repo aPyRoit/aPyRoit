@@ -1,6 +1,6 @@
 <h2 align="center"> *** Welcome to my profile! *** </h2>
   <div align="center">
-    <img src="https://user-images.githubusercontent.com/98595208/196624352-f5a302aa-852b-4def-a133-dcd9aa609b3a.gif" align="right">
+    <img src="https://github.com/aPyRoit/aPyRoit/blob/main/dancing_boy.gif?raw=true" align="right">
   </div>
 <div>
 
