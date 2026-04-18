@@ -1,11 +1,11 @@
 <h2 align="center"> ************************** Welcome to my profile! ************************** </h2>
 
 <div align="center">
-  <img src="https://github.com/aPyRoit/aPyRoit/blob/main/dancing_boy.gif?raw=true" align="right" height=400 width=450>
+  <img src="https://github.com/aPyRoit/aPyRoit/blob/main/night_town_resized.gif?raw=true" align="right" height=400 width=450>
 </div>
 
 
-<h3><img height="50" src="https://raw.githubusercontent.com/aPyRoit/aPyRoit/refs/heads/main/programming_cat.gif"/> About me</h3>
+<h3><img height="50" src="https://github.com/aPyRoit/aPyRoit/blob/main/loading.gif?raw=true"/> About me</h3>
 <img width="370" height="10" alt="line" src="https://github.com/user-attachments/assets/8f6b354e-2604-4d01-89a1-daad4cefe816" />
 
 *I'm a fullstack developer*
