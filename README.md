@@ -8,7 +8,7 @@
 <h3><img height="50" src="https://raw.githubusercontent.com/aPyRoit/aPyRoit/refs/heads/main/programming_cat.gif"/> About me</h3>
 <img width="370" height="10" alt="line" src="https://github.com/user-attachments/assets/8f6b354e-2604-4d01-89a1-daad4cefe816" />
 
-*I'm fullstack developer*
+*I'm a fullstack developer*
 
 <h3> ➤ My Telegram: </h3>
 <img width="370" height="10" alt="line" src="https://github.com/user-attachments/assets/a6244a1e-bab1-4caa-884b-adfd1d4cbbc1" />
@@ -22,10 +22,9 @@
 <img width="370" height="10" alt="line" src="https://github.com/user-attachments/assets/771e00a7-e564-4a33-80a1-e42cba120dae" />
 <div align="left">
   
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 
 </div>
 
