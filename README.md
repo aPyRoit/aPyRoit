@@ -4,7 +4,7 @@
   <img src="https://github.com/aPyRoit/aPyRoit/blob/main/night_town_resized.gif?raw=true" align="right" height=400 width=450>
 </div>
 
-
+<img width="370" height="0" alt="line" src="https://github.com/user-attachments/assets/8f6b354e-2604-4d01-89a1-daad4cefe816" />
 <h3><img height="50" src="https://github.com/aPyRoit/aPyRoit/blob/main/loading.gif?raw=true"/> About me</h3>
 <img width="370" height="10" alt="line" src="https://github.com/user-attachments/assets/8f6b354e-2604-4d01-89a1-daad4cefe816" />
 
