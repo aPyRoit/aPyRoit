@@ -30,11 +30,3 @@
 </div>
 
 <br clear="both"/>
-
-<h2 align="center"> Stats </h2>
-
-<div>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aPyRoit&show_icons=true&theme=dark&card_width=1100#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>
