@@ -15,13 +15,19 @@
 </div>
 
 <img width="370" height="10" alt="line" src="https://github.com/user-attachments/assets/771e00a7-e564-4a33-80a1-e42cba120dae" />
-<div align="left">
-  
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" title="python"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" title="javascript"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" title="typescript"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" title="react"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo" title="html"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" title="css"/>  
 </div>
 
 <br clear="both"/>
