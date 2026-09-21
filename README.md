@@ -8,12 +8,7 @@
 <h3><img height="50" src="https://github.com/aPyRoit/aPyRoit/blob/main/loading.gif?raw=true"/> About me</h3>
 <img width="370" height="10" alt="line" src="https://github.com/user-attachments/assets/8f6b354e-2604-4d01-89a1-daad4cefe816" />
 
-*I'm a frontend developer*
-
-<h3> ➤ My Telegram: </h3>
-<img width="370" height="10" alt="line" src="https://github.com/user-attachments/assets/a6244a1e-bab1-4caa-884b-adfd1d4cbbc1" />
-
-[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="28" />](https://t.me/art_mal)
+*I'm a fullstack developer*
 
 <div align="left">
   <h3 align="left"> My tech stack </h3>
