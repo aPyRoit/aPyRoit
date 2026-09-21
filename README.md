@@ -1,5 +1,5 @@
 <div align="right">
-  <img src="https://github.com/aPyRoit/aPyRoit/blob/main/night_town_resized.gif?raw=true" align="right" width=50%>
+  <img src="https://github.com/aPyRoit/aPyRoit/blob/main/night_town_resized2.gif?raw=true" align="right" width=50%>
 </div>
 
 <h3><img height="50" src="https://github.com/aPyRoit/aPyRoit/blob/main/loading.gif?raw=true"/> About me</h3>
